@@ -9,7 +9,7 @@
     "name": "الكيمياء",
     "icon": "biotech",
     "color": "orange",
-    "visible": false
+    "visible": true
   },
   {
     "name": "الأحياء",
