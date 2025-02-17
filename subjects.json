@@ -1,0 +1,20 @@
+[
+  {
+    "name": "الفيزياء",
+    "icon": "science",
+    "color": "green",
+    "visible": true
+  },
+  {
+    "name": "الكيمياء",
+    "icon": "biotech",
+    "color": "orange",
+    "visible": false
+  },
+  {
+    "name": "الأحياء",
+    "icon": "eco",
+    "color": "teal",
+    "visible": true
+  }
+]
